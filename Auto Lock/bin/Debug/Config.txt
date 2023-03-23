@@ -1,0 +1,26 @@
+On/Off Van4|M6
+On/Off Van5|M5
+On/Off Van6|M4
+
+Start Read|M192
+End Read|M191
+
+Start bond|M71
+End bond|M65
+End Code|M1005
+Model Run|D4488
+Stop bond|M72
+Reset máy keo|X41
+Link data|M29
+
+Thanh ghi vị trí|D50
+Vị trí 1|210
+Vị trí 2|211
+Vị trí 3|212
+
+Main|2
+Cell|3
+
+IP PLC Function|192.168.0.110
+IP PLC Bonding|192.168.0.60
+COM Scanner|COM9

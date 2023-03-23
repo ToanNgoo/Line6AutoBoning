@@ -1,0 +1,11 @@
+Model Name : Composite Sub_210126
+Lot No : Cell
+Test Start Time : 2021-03-06 09-30-01
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Count,Total Result,Barcode(SN),D_AFE_IO_IMSX,D_AFE_IO_IPSX,D_CAN_LOW,D_CAN_HIGH,G_CAN,D_MCU_IN_MODULE0,D_MCU_IN_MODULE1,D_MCU_IN_MODULE2,D_MCU_IN_MODULE3,G_MCU 1,G_MCU 2,G_MCU 3,G_MCU 4,G_BAT 1,G_BAT 2,A_RLY_EN PLUS 1,A_RLY_EN PLUS 2,G_PWM_CHG,A_PWM_CHG_SIG,A_SYS SW_WKUP_PEDAL INTERLOCK,G_PACK_WKUP,G_BAT_MINUS 1,G_BAT_MINUS 2,A_SYS SW_WKUP_INTERLOCK,A_SYS SW_WKUP_TOW,A_PACK_WKUP_SIG,A_SYS SW_WKUP_IGKEY,P_PACK_58V_PLUS 1,P_PACK_58V_PLUS 2,Step Result,Temperature,Test Channel,Test Time
+	,	,	,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,	,	,	,	
+,,,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,Resistance,,,,
+,,,0 ~ 68,0 ~ 68,0 ~ 118,0 ~ 118,0 ~ 68,0 ~ 68,0 ~ 80,0 ~ 80,0 ~ 84,0 ~ 58.5,0 ~ 58.5,0 ~ 58.5,0 ~ 58.5,0 ~ 64,0 ~ 64,0 ~ 64,0 ~ 64,0 ~ 90,0 ~ 97,0 ~ 75,0 ~ 64,0 ~ 64,0 ~ 64,0 ~ 68,0 ~ 87,0 ~ 95,0 ~ 114,0 ~ 64,0 ~ 64,,,,
+,,,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,mohm,,,,
+1,NG,210208V010100T,39,39.2,65.5,71.8,51.7,24.9,34.8,37.1,38.7,18.8,30.7,61.3,13.5,25.4,24.7,22.4,19.8,36.9,52.3,25.3,31.8,14.1,12.3,18.8,41.7,50.5,77.8,48.2,46.9,OOOOOOOOOOOXOOOOOOOOOOOOOOOOO,26.1 กษ,2,2021-03-06 09:31:33

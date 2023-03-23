@@ -1,0 +1,137 @@
+D:\Project\2020\Line6\Led\Program\Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\Project\2020\Line6\Led\Program\Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\Project\2020\Line6\Led\Program\Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\Project\2020\Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\Project\2020\Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\Project\2020\Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\Project\2020\Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\Project\2020\Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\Project\2020\Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+D:\Project\2020\02.Line6\Led\Program\Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\Project\2020\02.Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\Project\2020\02.Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\Project\2020\02.Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\Project\2020\02.Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\Project\2020\02.Line6\Led\Program\Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\Project\2020\02.Line6\Led\Program\Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\Project\2020\02.Line6\Led\Program\Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\Project\2020\02.Line6\01. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\Project\2020\02.Line6\01. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\Project\2020\02.Line6\01. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\Giang\Check Parameter program\01. Auto Lock\01. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\Giang\Check Parameter program\01. Auto Lock\01. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\Giang\Check Parameter program\01. Auto Lock\01. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\Giang\Check Parameter program\01. Auto Lock\01. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\Giang\Check Parameter program\01. Auto Lock\01. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\Giang\Check Parameter program\01. Auto Lock\01. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\Giang\Check Parameter program\01. Auto Lock\01. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\Giang\Check Parameter program\01. Auto Lock\01. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\Project\2020\02. Line6\01. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\Project\2020\02. Line6\01. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\Project\2020\02. Line6\01. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\Project\2020\02. Line6\01. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+D:\Project\2020\02. Line6\01. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\Project\2020\02. Line6\01. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\Project\2020\02. Line6\01. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\Project\2020\02. Line6\01. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\Project\2020\02. Line6\01. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\Project\2020\02. Line6\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\Project\2020\02. Line6\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\Project\2020\02. Line6\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\Project\2020\02. Line6\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\Project\2020\02. Line6\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\Project\2020\02. Line6\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+D:\Project\2020\02. Line6\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\Project\2020\02. Line6\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\Project\2020\02. Line6\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\01. Project\02. 2021\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\01. Project\02. 2021\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\01. Project\02. 2021\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+C:\Users\Admin\Desktop\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+C:\Users\Admin\Desktop\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+C:\Users\Admin\Desktop\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+C:\Users\Admin\Desktop\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+C:\Users\Admin\Desktop\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+C:\Users\Admin\Desktop\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\07.Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\01. Project\02. 2021\07.Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\07.Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\07.Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\01. Project\02. 2021\07.Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\01. Project\02. 2021\07.Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\07.Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\07.Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\07.Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+D:\01. Project\02. 2021\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\01. Project\02. 2021\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\01. Project\02. 2021\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\01. Project\02. 2021\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\OptionDefine.dll
+D:\01. Project\02. 2021\10. Back up\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\01. Project\02. 2021\10. Back up\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\10. Back up\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\10. Back up\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\10. Back up\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\10. Back up\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\01. Project\02. 2021\10. Back up\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\01. Project\02. 2021\10. Back up\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\10. Back up\07. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\bin\Debug\OptionDefine.dll
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\01. Project\02. 2021\10. Back up\05. Auto Bonding Ver 1.1\02. Lock_AutoBonding\02. Lock_AutoBonding\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+C:\Users\SDIV\Downloads\02. Auto Lock\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe.config
+C:\Users\SDIV\Downloads\02. Auto Lock\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.exe
+C:\Users\SDIV\Downloads\02. Auto Lock\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.pdb
+C:\Users\SDIV\Downloads\02. Auto Lock\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+C:\Users\SDIV\Downloads\02. Auto Lock\02. Auto Lock\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+C:\Users\SDIV\Downloads\02. Auto Lock\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+C:\Users\SDIV\Downloads\02. Auto Lock\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.exe
+C:\Users\SDIV\Downloads\02. Auto Lock\02. Auto Lock\Auto Lock\bin\Debug\Auto Lock.pdb
+C:\Users\SDIV\Downloads\02. Auto Lock\02. Auto Lock\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\02. Auto Lock_013805\Auto Lock\bin\Debug\Auto Lock.exe.config
+C:\Users\Administrator\Desktop\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.exe
+C:\Users\Administrator\Desktop\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.pdb
+C:\Users\Administrator\Desktop\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+C:\Users\Administrator\Desktop\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+C:\Users\Administrator\Desktop\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\02. Auto Lock_013805\Auto Lock\bin\Debug\Auto Lock.exe
+C:\Users\Administrator\Desktop\02. Auto Lock_013805\Auto Lock\bin\Debug\Auto Lock.pdb
+C:\Users\Administrator\Desktop\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\10. Data\02. C#\02. Auto Lock_013805\Auto Lock\bin\Debug\Auto Lock.exe.config
+D:\01. CPE DEV\10. Data\02. C#\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.exe
+D:\01. CPE DEV\10. Data\02. C#\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.pdb
+D:\01. CPE DEV\10. Data\02. C#\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\10. Data\02. C#\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+D:\01. CPE DEV\10. Data\02. C#\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+D:\01. CPE DEV\10. Data\02. C#\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+D:\01. CPE DEV\10. Data\02. C#\02. Auto Lock_013805\Auto Lock\bin\Debug\Auto Lock.exe
+D:\01. CPE DEV\10. Data\02. C#\02. Auto Lock_013805\Auto Lock\bin\Debug\Auto Lock.pdb
+C:\Users\Administrator\Desktop\Program Dev\8. Auto bonding #6\New\02. Auto Lock_013805\Auto Lock\bin\Debug\Auto Lock.exe.config
+C:\Users\Administrator\Desktop\Program Dev\8. Auto bonding #6\New\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.exe
+C:\Users\Administrator\Desktop\Program Dev\8. Auto bonding #6\New\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.pdb
+C:\Users\Administrator\Desktop\Program Dev\8. Auto bonding #6\New\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\8. Auto bonding #6\New\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto_Lock.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\8. Auto bonding #6\New\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto_Lock.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\8. Auto bonding #6\New\02. Auto Lock_013805\Auto Lock\obj\Debug\Auto Lock.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\8. Auto bonding #6\New\02. Auto Lock_013805\Auto Lock\bin\Debug\Auto Lock.exe
+C:\Users\Administrator\Desktop\Program Dev\8. Auto bonding #6\New\02. Auto Lock_013805\Auto Lock\bin\Debug\Auto Lock.pdb
